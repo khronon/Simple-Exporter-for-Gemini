@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Export Chat</title>
+    <link rel="stylesheet" href="fonts/fonts.css" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <span class="material-symbols-outlined">download</span>
+        <span>Export Chat As</span>
+      </div>
+      <div class="buttons">
+        <button id="export-html">
+          <span class="material-symbols-outlined">code</span>
+          HTML
+        </button>
+        <button id="export-json">
+          <span class="material-symbols-outlined">data_object</span>
+          JSON
+        </button>
+        <button id="export-md">
+          <span class="material-symbols-outlined">article</span>
+          Markdown
+        </button>
+      </div>
+      <div id="message-area" class="message-area"></div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
