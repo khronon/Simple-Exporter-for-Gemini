@@ -4,7 +4,7 @@
 
 A simple, powerful browser extension to export your Gemini conversations into versatile and highly readable formats.
 
-[**Install for Chrome - Chrome Web Store**](あなたのChromeウェブストアのURL)
+[**Install for Chrome - Chrome Web Store**](Not created yet)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Ever wanted to save your conversations with Gemini for later review, documentati
 
 ## Privacy
 
-This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see our [Privacy Policy](あなたの公式サイトのプライバシーポリシーへのURL).
+This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see [Privacy Policy](https://clonon.net/privacy/simple-gemini-exporter.html).
 
 ## License
 
