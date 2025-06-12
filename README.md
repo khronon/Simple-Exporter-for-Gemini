@@ -28,7 +28,7 @@ Simple Gemini Exporter is a one-click tool to save your chat history as beautifu
 
 ## Privacy
 
-This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see [Privacy Policy](https://clonon.net/privacy/simple-gemini-exporter.html).
+This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see [Privacy Policy](https://clonon.net/simple-gemini-exporter/privacy.html).
 
 ## License
 
