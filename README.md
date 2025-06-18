@@ -4,7 +4,7 @@
 
 A simple, powerful browser extension to export your Gemini conversations into versatile and highly readable formats.
 
-[**Install for Chrome - Chrome Web Store**](Not created yet)
+[**Install for Chrome - Chrome Web Store**](https://chromewebstore.google.com/detail/simple-gemini-exporter/khgjgbneefjbbocjhakfamgmcjpkmoej)
 
 ## Overview
 
