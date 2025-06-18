@@ -1,4 +1,4 @@
-# Simple Gemini Exporter
+# Simple Exporter for Gemini™
 
 ![icon](icons/icon128.png)
 
@@ -8,7 +8,7 @@ A simple, powerful browser extension to export your Gemini conversations into ve
 
 ## Overview
 
-Simple Gemini Exporter is a one-click tool to save your chat history as beautiful and interactive HTML, reusable Markdown, or perfectly structured JSON files.
+Simple Exporter for Gemini is a one-click tool to save your chat history as beautiful and interactive HTML, reusable Markdown, or perfectly structured JSON files.
 
 ## Key Features
 

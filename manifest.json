@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Simple Gemini Exporter",
-  "version": "1.0.0",
+  "name": "Simple Exporter for Gemini™",
+  "version": "1.0.1",
   "description": "Export Gemini chats to HTML, JSON, and Markdown with a single click.",
   "permissions": ["activeTab", "downloads"],
   "background": {
