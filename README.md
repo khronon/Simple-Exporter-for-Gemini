@@ -4,7 +4,7 @@
 
 A simple, powerful browser extension to export your Gemini conversations into versatile and highly readable formats.
 
-[**Install for Chrome - Chrome Web Store**](https://chromewebstore.google.com/detail/simple-gemini-exporter/khgjgbneefjbbocjhakfamgmcjpkmoej)
+[**Install for Chrome - Chrome Web Store**](https://chromewebstore.google.com/detail/simple-exporter-for-gemini/khgjgbneefjbbocjhakfamgmcjpkmoej)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Simple Exporter for Gemini is a one-click tool to save your chat history as beau
 
 ## Privacy
 
-This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see [Privacy Policy](https://clonon.net/simple-gemini-exporter/privacy.html).
+This extension is designed with your privacy as the top priority. It does not collect, store, or transmit any of your data. For more details, please see [Privacy Policy](https://clonon.net/simple-exporter-for-gemini/privacy.html).
 
 ## License
 
