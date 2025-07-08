@@ -64,8 +64,10 @@ async function processChatExport(format) {
     } else if (element.matches('div[id^="model-response-message-contentr_"]')) {
       const clonedOutput = element.cloneNode(true);
       clonedOutput
-        .querySelectorAll(".tool-bar, .buttons, .response-container-footer")
-        .forEach((toolbar) => toolbar.remove());
+        .querySelectorAll(
+          ".tool-bar, .buttons, .response-container-footer, .code-editor"
+        )
+        .forEach((el) => el.remove());
       clonedOutput.querySelectorAll("*").forEach((el) => {
         const attributesToRemove = [];
         for (const attr of el.attributes) {
